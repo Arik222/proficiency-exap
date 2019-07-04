@@ -1,0 +1,39 @@
+/* #container{ 
+    display: grid;
+   grid-template-columns: repeat(3, 1fr);
+   grid-template-rows: repeat(7, 1fr);
+   grid-gap: 60px;
+   text-align: center;
+   font-size: 27px;
+   color: rgb(255, 24, 24);
+    
+  
+}
+
+body{text-align: center;
+background-image: url("https://media0.giphy.com/media/13S9mmjjdDEOic/giphy.gif?cid=790b76115d1cdb1e4673754836a542c8&rid=giphy.gif")}
+
+#team-input{
+   background-color: black;
+   color: aliceblue;
+   width: 129px;
+    height: 50px;
+    border: 2px solid
+
+   
+}
+
+#team-button{
+    color: brown;
+    width: 129px;
+    height: 50px;
+    border: 2px solid
+    
+  
+}
+
+#incont{
+    border: 5px outset #FF0000;
+border-radius: 20px;
+background-image: linear-gradient(to right, #fa709a 0%, #fee140 100%);
+} */
